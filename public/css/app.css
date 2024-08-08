@@ -1,0 +1,18 @@
+body {
+    background-image: url('/images/perpus.jpg'); /* Pastikan path diatur dengan benar */
+    background-size: cover; /* Menutup seluruh elemen */
+    background-position: center; /* Memusatkan gambar */
+    background-repeat: no-repeat; /* Tidak mengulang gambar */
+    background-attachment: fixed; /* Membuat gambar tetap saat scroll (opsional) */
+    height: 100vh; /* Pastikan body memiliki tinggi viewport */
+    margin: 0; /* Menghapus margin default */
+
+}
+
+
+.card {
+    background-color: #eee;
+    margin-top: 3.5rem;
+    max-width: 600px;
+    margin-right: 20px;
+}
